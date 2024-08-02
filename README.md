@@ -164,6 +164,12 @@ int main()
 }
 ```
 
+## OUTPUT
+### 1.
+![cds 1](https://github.com/user-attachments/assets/3276cba9-638e-4b7c-b942-12b07813db93)
+
+### 2.
+
 
 
 
